@@ -8,8 +8,8 @@ require (
 	github.com/hmdsefi/gograph v0.8.2
 	github.com/stretchr/testify v1.12.1
 	go.uber.org/multierr v1.11.0
-	golang.org/x/mod v0.41.0
-	golang.org/x/tools v0.50.0
+	golang.org/x/mod v0.42.0
+	golang.org/x/tools v0.52.0
 )
 
 require go.yaml.in/yaml/v3 v3.0.5 // indirect

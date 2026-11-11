@@ -1,5 +1,5 @@
-github.com/fern-api/generator-exec-go v1.0.54 h1:sfiY/k7Mxn8kQTLewKxDFD1Pkx5AygHaCTb/tRDOtfo=
-github.com/fern-api/generator-exec-go v1.0.54/go.mod h1:Z7V5lZnaD8PblJAynK087662md2wBNhQcAl+W6IIydw=
+github.com/fern-api/generator-exec-go v1.0.62 h1:+Tr40kBMmqBYeTl5o2AU3IkGBh8oOaxZHfX6A5aCkGY=
+github.com/fern-api/generator-exec-go v1.0.62/go.mod h1:sfRJa3d46ObomVxwlGCZft7wQiOZLjqNGRCH48TEsHM=
 github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
 github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 github.com/hmdsefi/gograph v0.9.1 h1:2Wvc0AIeq2WeL6zcZ/7hNch1HcdCF4yPcCE20lZduP4=

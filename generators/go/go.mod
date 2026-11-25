@@ -9,7 +9,7 @@ require (
 	github.com/stretchr/testify v1.12.1
 	go.uber.org/multierr v1.11.0
 	golang.org/x/mod v0.43.0
-	golang.org/x/tools v0.52.0
+	golang.org/x/tools v0.53.0
 )
 
 require go.yaml.in/yaml/v3 v3.0.5 // indirect
